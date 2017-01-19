@@ -4,4 +4,4 @@ It's just a map of timezones, but all colors are from [color circle](https://col
 It's based on [the file](https://en.wikipedia.org/wiki/File:Standard_World_Time_Zones.png) from wikipedia.
 
 
-[map]: time-zone-timezone-map.png
+![map](time-zone-timezone-map.png)
